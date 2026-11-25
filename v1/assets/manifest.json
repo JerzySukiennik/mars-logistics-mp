@@ -1,0 +1,40 @@
+{
+  "audio": {
+    "engine_loop": "assets/audio/engine_loop.mp3",
+    "wind_loop": "assets/audio/wind_loop.mp3",
+    "drill_loop": "assets/audio/drill_loop.mp3",
+    "charge_loop": "assets/audio/charge_loop.mp3",
+    "ui_click": "assets/audio/ui_click.mp3",
+    "ui_open": "assets/audio/ui_open.mp3",
+    "sell": "assets/audio/sell.mp3",
+    "pickup": "assets/audio/pickup.mp3",
+    "deploy": "assets/audio/deploy.mp3",
+    "error": "assets/audio/error.mp3"
+  },
+  "textures": {
+    "mars_soil": {
+      "albedo": "assets/textures/mars_soil_diff_1k.jpg",
+      "normal": "assets/textures/mars_soil_nor_1k.jpg",
+      "rough": "assets/textures/mars_soil_rough_1k.jpg",
+      "albedoHigh": "assets/textures/mars_soil_diff_2k.jpg"
+    },
+    "rock": {
+      "albedo": "assets/textures/rock_diff_1k.jpg",
+      "normal": "assets/textures/rock_nor_1k.jpg"
+    },
+    "metal": {
+      "albedo": "assets/textures/metal_diff_1k.jpg",
+      "normal": "assets/textures/metal_nor_1k.jpg",
+      "rough": "assets/textures/metal_rough_1k.jpg"
+    },
+    "panel": {
+      "albedo": "assets/textures/panel_diff_1k.jpg",
+      "normal": "assets/textures/panel_nor_1k.jpg",
+      "rough": "assets/textures/panel_rough_1k.jpg"
+    }
+  },
+  "models": {
+    "rock_a": "assets/models/moon_rock_01/moon_rock_01.gltf",
+    "rock_b": "assets/models/moon_rock_04/moon_rock_04.gltf"
+  }
+}
